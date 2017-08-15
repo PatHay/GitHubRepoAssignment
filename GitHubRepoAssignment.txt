@@ -1,0 +1,20 @@
+Patricks-MacBook-Pro:gittest phayes$ ls
+aboutMe.txt	assignment.txt	index.html	styles.css
+Patricks-MacBook-Pro:gittest phayes$ cd ..
+Patricks-MacBook-Pro:desktop phayes$ mkdir GitHubRepoAssignment
+Patricks-MacBook-Pro:desktop phayes$ cd GitHubRepoAssignment
+Patricks-MacBook-Pro:GitHubRepoAssignment phayes$ git init
+Initialized empty Git repository in /Users/phayes/Desktop/GitHubRepoAssignment/.git/
+Patricks-MacBook-Pro:GitHubRepoAssignment phayes$ touch readme.md
+Patricks-MacBook-Pro:GitHubRepoAssignment phayes$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	readme.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+Patricks-MacBook-Pro:GitHubRepoAssignment phayes$ touch GitHubRepoAssignment.txt
